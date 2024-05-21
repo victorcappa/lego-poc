@@ -53,7 +53,7 @@ https://github.com/victorcappa/lego-poc/assets/40408965/3ec549dc-5bd1-4fdb-a137-
 <!-- LICENSE -->
 ## License
 
-All intellectual property is owned by Marvel Studios and Coca Cola Company
+All intellectual property is owned by Lego,
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -61,7 +61,7 @@ All intellectual property is owned by Marvel Studios and Coca Cola Company
 <!-- CONTACT -->
 ## Contact
 
-Reach out - <a href = "mailto: cappacurta@gmail.com.com">Victor Cappa</a>
+Reach out - <a href = "mailto: victorcappa@imaginar.dev">Victor Cappa</a>
 <a href="https://www.linkedin.com/in/victor-cappa-50839788/">Linkedin</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
